@@ -65,8 +65,7 @@ onUnmounted(() => {
               Asher Global
             </h1>
             <p class="lead text-white px-5 mt-3" :style="{ fontWeight: '500' }">
-              Start the Development With Bootstrap 5 Design System inspired by
-              Material Design.
+              Software Development Soltions.
             </p>
           </div>
         </div>
