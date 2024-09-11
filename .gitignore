@@ -27,3 +27,8 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+/.vs/vue-material-kit/v17
+/.vs/slnx.sqlite
+/.vs/vue-material-kit/config
+*.vsidx
+/.vs/VSWorkspaceState.json
