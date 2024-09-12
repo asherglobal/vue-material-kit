@@ -1,4 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
+import Home from "../views/Presentation/Home.vue";
 import PresentationView from "../views/Presentation/PresentationView.vue";
 import AboutView from "../views/LandingPages/AboutUs/AboutView.vue";
 import ContactView from "../views/LandingPages/ContactUs/ContactView.vue";
@@ -28,9 +29,14 @@ const router = createRouter({
   routes: [
     {
       path: "/",
-      name: "presentation",
-      component: PresentationView,
-    },
+      name: "home",
+      component: Home,
+      },
+      {
+          path: "/present",
+          name: "presentation",
+          component: PresentationView,
+      },
     {
       path: "/pages/landing-pages/about-us",
       name: "about",
