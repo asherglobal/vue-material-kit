@@ -64,8 +64,8 @@ onUnmounted(() => {
             >
               Asher Global
             </h1>
-            <p class="lead text-white px-5 mt-3 text-monospace" :style="{ fontWeight: '500', fontSize: '2.25rem', textShadow: '-1px -1px 5px black, 1px -1px 5px black, -1px 1px 5px black, 1px 1px 5px black' }">
-                Software Development Solutions.
+            <p class="lead text-white px-5 mt-3" :style="{ fontWeight: '500', textShadow: '-1px -1px 5px black, 1px -1px 5px black, -1px 1px 5px black, 1px 1px 5px black' }">
+                Software Development Solutions
             </p>
           </div>
         </div>
