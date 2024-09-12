@@ -60,11 +60,11 @@ onUnmounted(() => {
           <div class="col-lg-7 text-center mx-auto position-relative">
             <h1
               class="text-white pt-3 mt-n5 me-2"
-              :style="{ display: 'inline-block ', textShadow: '-1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black' }"
+              :style="{ display: 'inline-block ', textShadow: '-1px -1px 5 black, 1px -1px 5 black, -1px 1px 5 black, 1px 1px 5 black' }"
             >
               Asher Global
             </h1>
-            <p class="lead text-white px-5 mt-3 text-monospace" :style="{ fontWeight: '500', fontSize: '2.25rem', textShadow: '-1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black' }">
+            <p class="lead text-white px-5 mt-3 text-monospace" :style="{ fontWeight: '500', fontSize: '2.25rem', textShadow: '-1px -1px 5 black, 1px -1px 5 black, -1px 1px 5 black, 1px 1px 5 black' }">
                 Software Development Solutions.
             </p>
           </div>
